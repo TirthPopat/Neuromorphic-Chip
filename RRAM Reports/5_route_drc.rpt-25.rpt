@@ -1,0 +1,129 @@
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 799.8700) - (802.8700, 800.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 799.8700) - (802.8700, 800.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 799.8700) - (802.8700, 800.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 799.8700) - (802.8700, 800.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 799.8700) - (802.8700, 800.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 799.8700) - (802.8700, 800.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 801.2300) - (802.8700, 801.2700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 894.9500) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 894.9500) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 894.9500) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 894.9500) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 894.9500) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 894.9500) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 895.0600) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 895.0700) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 895.0700) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 895.0700) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 895.0700) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[1\] net:core_gen\[7\].u_core.stdp_weight_in\[7\]
+	bbox = (801.8700, 895.0700) - (802.8700, 895.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.0500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.0500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[7\].u_core.final_wr_data\[0\] net:core_gen\[7\].u_core.stdp_weight_in\[6\]
+	bbox = (801.8700, 895.9500) - (802.8700, 896.2500) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (802.5600, 800.7700) - (802.8700, 801.2700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (802.5600, 800.8700) - (802.8700, 801.1700) on Layer met3
+violation type: Short
+	srcs: net:core_gen\[1\].u_core.final_wr_data\[1\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (802.5600, 801.2300) - (802.8700, 801.2700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].u_core.stdp_weight_in\[0\] net:core_gen\[1\].u_core.stdp_weight_in\[7\]
+	bbox = (802.5600, 801.5300) - (802.8700, 801.7700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].aer_tx_addr\[3\] net:core_gen\[1\].aer_tx_addr\[4\]
+	bbox = (950.8700, 793.1700) - (951.8700, 793.3700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].aer_tx_addr\[3\] net:core_gen\[1\].aer_tx_addr\[4\]
+	bbox = (950.8700, 793.1700) - (951.8700, 793.3700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].aer_tx_addr\[3\] net:core_gen\[1\].aer_tx_addr\[4\]
+	bbox = (950.8700, 793.1700) - (951.8700, 793.3700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].aer_tx_addr\[3\] net:core_gen\[1\].aer_tx_addr\[4\]
+	bbox = (950.8700, 793.1700) - (951.8700, 793.3700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].aer_tx_addr\[3\] net:core_gen\[1\].aer_tx_addr\[4\]
+	bbox = (950.8700, 793.1700) - (951.8700, 793.3700) on Layer met3
+violation type: Metal Spacing
+	srcs: net:core_gen\[1\].aer_tx_addr\[3\] net:core_gen\[1\].aer_tx_addr\[4\]
+	bbox = (950.8700, 793.1700) - (951.8700, 793.3700) on Layer met3

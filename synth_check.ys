@@ -1,0 +1,23 @@
+# synth_check.ys
+# Generic synthesis sanity check — catches synthesizability issues (array ports,
+# latches, width mismatches) AND tells you what hardware Yosys actually inferred.
+#
+# Run from the directory containing the RTL files:
+#   yosys synth_check.ys
+
+read_verilog synapse_mac.v
+read_verilog weight_mem.v
+read_verilog membrane_accumulator.v
+read_verilog threshold_detector.v
+read_verilog reset_leak_unit.v
+read_verilog lif_neuron_core.v
+read_verilog lif_neuron_array.v
+
+# Full synthesis pass — shows inferred hardware (FFs, memories, muxes)
+synth -top lif_neuron_array
+
+stat
+check
+
+# Write the elaborated netlist so you can inspect what Yosys produced
+write_verilog -noattr synthesized.v

@@ -1,0 +1,22 @@
+{
+    "detailedroute__route__drc_errors": {
+        "value": 0,
+        "compare": "<=",
+        "level": "error"
+    },
+    "detailedroute__antenna__violating__nets": {
+        "value": 0,
+        "compare": "<=",
+        "level": "error"
+    },
+    "finish__timing__setup__ws": {
+        "value": 0.0,
+        "compare": ">=",
+        "level": "warning"
+    },
+    "finish__timing__hold__ws": {
+        "value": 0.0,
+        "compare": ">=",
+        "level": "warning"
+    }
+}
